@@ -1,1 +1,2 @@
-# modbusControl
+# Modbus Control
+Данная небольшая программа позволяет управлять преобразователями частоты бренда INSTART серии MCI, FCI через протокол Modbus RTU.
